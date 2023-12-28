@@ -23,9 +23,8 @@ We have been task to determine what has been successful and what areas of sales 
 
 
 ## Regional Sales Analyses
-Regional Sales Analysis with Key metrics by region and categories
-
-
+Regional Sales Analysis with Key metrics by region and categories Dashboard
+https://public.tableau.com/app/profile/navy.neang/vizzes
 
 ## Features
 List the ready features here:
